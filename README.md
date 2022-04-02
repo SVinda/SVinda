@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/SVinda?template=classic&config.timezone=Asia%2FShanghai)
+- 🌱 I’m currently learning ...
 
-![SVinda's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=SVinda&show_icons=true&count_private=true&theme=gotham)
+<!-- ![Metrics](https://metrics.lecoq.io/SVinda?template=classic&config.timezone=Asia%2FShanghai) -->
 
-[![SVinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVinda)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![SVinda's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=SVinda&show_icons=true&count_private=true&theme=gotham) -->
+
+<!-- [![SVinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVinda)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **SVinda/SVinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
